@@ -1,8 +1,6 @@
 # 📖 Project Documentation
 
-## 🔗 Access Links
-- [Project Repository](https://github.com/satyam-64136/ShivasDelight)
-- [Live Demo](https://shivasdelight.example.com)
+## 🔗 Access Links [click here](https://satyam-64136.github.io/ShivasDelight/)
 
 ## 🌟 Project Overview
 ShivasDelight is a comprehensive platform designed to offer delightful experiences through a myriad of features focused on user engagement and satisfaction.
@@ -40,15 +38,6 @@ To get started with the project:
 
 ## 🎨 Design System
 Consists of reusable components, typography, and color schemes to maintain consistency across the platform.
-
-## 📞 Contact Information
-For any inquiries, reach out to:
-- Email: support@shivasdelight.com
-- Phone: +1 (123) 456-7890
-
-## 🚧 Future Roadmap
-- Implementing AI features by Q3 2026.
-- Expanding integration with third-party services.
 
 ## ✅ Call to Action
 Join us in enhancing ShivasDelight! Check out the repository and contribute to our growing community!
